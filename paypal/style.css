@@ -1,0 +1,221 @@
+.navbar1{
+    margin: 0%;
+    width: 100%;
+    background-color: wheat;
+   
+  
+}
+.img1{
+    width: 42px;
+    height: 42px;
+    margin-left: 30px;
+}
+.custom1{
+    background-color: white;
+    padding: 0;
+}
+.custom2{
+    padding: 0;
+}
+.custom3{
+    color: rgb(0,48,135);
+    font-weight: bold;
+    font-size: larger;
+    margin-left: 20px;
+    
+}
+.custom4{
+    color: rgb(0,48,135);
+    font-weight: bold;
+    font-size: larger;
+    margin-left: 10px;
+    
+}
+.custom5{
+    color: rgb(0,48,135);
+    font-weight: bold;
+    font-size: larger;
+    position: relative;
+    left: 350px;
+   
+    
+}
+.but1{
+    width: 121px;
+    height: 48px;
+    color: rgb(0,48,135) ;
+    border: 2px solid  rgb(0,48,135);
+    border-radius: 20px;
+    font-weight: bold;
+    background-color: white;
+    margin-left: 390px;
+}
+.but2{
+    width: 121px;
+    height: 48px;
+    background-color: rgb(0,48,135) ;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    font-weight: bold;
+    margin-left: 30px;
+}
+ 
+.banner{
+    background-color: rgb(20,44,142);
+    height: 90vh;
+    width: 100%;
+    position: relative;
+}
+.p1{
+    color: white;
+    font-size: xx-large;
+    margin-left: 120px;
+    position: absolute;
+    margin-top: 50px;
+   
+    
+}
+.p2{
+    color: white;
+    font-weight: bold;
+    font-size: large;
+    margin-left: 120px;
+    position: absolute;
+    margin-top: 130px;
+}
+.a1{
+    color: rgb(86,204,254);
+    margin-left: 120px;
+    position: absolute;
+    margin-top: 200px;
+}
+.img3{
+    position: absolute;
+    margin-top: 270px;
+    margin-left: 120px;
+}
+.separate input{
+    width: 319px;
+    height: 64px;
+    padding:20px 12px 18px 35px;
+    border: 1px solid rgb(86,204,254);
+    position: absolute;
+    margin-top: 270px;
+    border-radius: 10px;
+    margin-left: 300px;
+}
+.separate .but3{
+    background-color: rgb(249,184,34);
+    color: black;
+    border-radius: 25px;
+    width: 138px;
+    height: 56px;
+    border: none;
+    margin-top: 355px;
+    position: absolute;
+    margin-left:300px ;
+
+}
+.separate .p3{
+    color: white;
+    font-weight: bold;
+    margin-top: 420px;
+    position: absolute;
+    margin-left: 300px;
+}
+.img4 img{
+    position: absolute;
+    margin-left: 650px;
+    margin-top: 67px;
+}
+.banner2{
+    border: 1px solid gainsboro;
+    height: 127px;
+    display: flex;
+    padding: 50px;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+   
+}
+ .banner2 .a2{
+    color:  rgb(86,204,254);
+    text-decoration: none;
+ margin-bottom: 10px;
+}
+.pic img{
+    width: 496px;
+    height: 471px;
+}
+.bobo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.para .p5{
+    font-size: xx-large;
+    font-weight: bold;
+}
+.para .p6{
+    font-weight: 600
+}
+.para .a3{
+    text-decoration: none;
+    color: rgb(86,204,254);
+}
+.bobo1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+.pic1 img{
+    width: 496px;
+    height: 375px;
+}
+.para .p7{
+    font-size: xx-large;
+    font-weight: bold;
+}
+.para .p8{
+    font-weight: 600
+}
+.para .a4{
+    text-decoration: none;
+    color: rgb(86,204,254);
+}
+.bobo2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+.pic2 img{
+    width: 496px;
+    height: 519px;
+}
+.para .p9{
+    font-size: xx-large;
+    font-weight: bold;
+}
+.para .p10{
+    font-weight: 600
+}
+.para .a5{
+    text-decoration: none;
+    color: rgb(86,204,254);
+}
+.paragraph p{
+    font-size: xx-large;
+    font-weight: 800;
+}
+.bobo3{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
